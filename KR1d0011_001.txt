@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 考工記解
-#+DATE: 2015-09-23 09:37:28
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 22:07:42.270586
+#+PROPERTY: ID KR1d0011
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷上
 <pb:KR1d0011_WYG_001-1a>¶
 欽定四庫全書¶
 　考工記解卷上¶
@@ -1438,6 +1440,7 @@
 　¶
 　¶
 　考工記解巻上¶
+#+PROPERTY: JUAN 卷上釋音
 <pb:KR1d0011_WYG_001-89a>¶
 　考工記解卷上釋音¶
 序¶
@@ -1510,4 +1513,3 @@
 　¶
 　¶
 　考工記解卷上釋音¶
-
